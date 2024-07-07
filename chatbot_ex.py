@@ -69,7 +69,7 @@ if __name__ == "__main__":
         }
     except Exception as e:
         output = {
-            "status": 500,
+            "status": 404,
             "message": "채팅 응답 실패",
             "body": {
                 "error": str(e)
