@@ -39,7 +39,9 @@ async def handle_prompt_playground(request: Request):
     # 결과 반환
     return JSONResponse(content={"response": response})
 
-# 필요에 따라 추가 라우트를 정의할 수 있습니다.
+@app.get("/prompt/playground/")
+async def handle_get_request():
+    return JSONResponse(content={"message": "Use POST method to send data."})
 
 if __name__ == "__main__": 
     import uvicorn
