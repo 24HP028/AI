@@ -41,7 +41,7 @@ Few-shot 프롬프트 방식이 Zero-shot보다 전반적으로 더 높은 성�
 
 ## 프로젝트 아키텍처 🏛
 
-![LLM 학습 파이프라인][(https://github.com/user-attachments/assets/87c332fb-4f99-4bee-b0ab-b7179be2cae6)])
+![LLM 학습 파이프라인](https://github.com/user-attachments/assets/87c332fb-4f99-4bee-b0ab-b7179be2cae6)
 
 ## 주요 성능 평가 결과 📊
 
