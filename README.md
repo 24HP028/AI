@@ -1,5 +1,5 @@
 <p align="middle">
-  <img width="200px;" src="https://github.com/your-repo/logo.png" alt="Project Logo"/>
+  <img width="200px;" src="[https://github.com/your-repo/logo.png" alt="Project Logo](https://github.com/user-attachments/assets/19e53102-7ed4-4d30-af19-4c8e59f964d0)"/>
 </p>
 
 <h1 align="middle">Port MIS 민원 상담 AI 챗봇</h1>
@@ -7,11 +7,11 @@
 
 ## 프로젝트 소개 📝
 
-본 프로젝트는 항만 운영 업무 및 민원 업무를 처리하는 **Port-MIS(항만운영정보시스템)**을 기반으로, **민원 상담 서비스를 24시간 자동화**하여 상담원의 업무 부담을 줄이고 신속한 답변을 제공할 수 있도록 개발되었습니다. 이를 위해 **RAG(Retrieval-Augmented Generation)**와 파인 튜닝 기술을 결합하여 **Llama-3-PortMIS-Ko-8B** 모델을 사용합니다.
+본 프로젝트는 항만 운영 업무 및 민원 업무를 처리하는 **Port-MIS(항만운영정보시스템)** 을 기반으로, **민원 상담 서비스를 24시간 자동화**하여 상담원의 업무 부담을 줄이고 신속한 답변을 제공할 수 있도록 개발되었습니다. 이를 위해 **RAG(Retrieval-Augmented Generation)** 와 파인 튜닝 기술을 결합하여 **Llama-3-PortMIS-Ko-8B** 모델을 사용합니다.
 
 ## 연구 발표 🏆
 
-본 연구는 **"프롬프트 엔지니어링을 통한 RAG 기반 데이터셋 품질 개선과 파인 튜닝 적용 모델의 성능 비교 연구"**라는 제목으로 **ACK 2024 학회**에서 발표되었습니다. 연구의 주요 내용은 데이터셋 품질 향상 및 RAG+파인튜닝 모델의 성능 개선 효과를 중심으로 합니다.
+본 연구는 **"프롬프트 엔지니어링을 통한 RAG 기반 데이터셋 품질 개선과 파인 튜닝 적용 모델의 성능 비교 연구"** 라는 제목으로 **ACK 2024 학회**에서 발표되었습니다. 연구의 주요 내용은 데이터셋 품질 향상 및 RAG+파인튜닝 모델의 성능 개선 효과를 중심으로 합니다.
 
 ## 기능 개요 🔍
 
@@ -41,7 +41,7 @@ Few-shot 프롬프트 방식이 Zero-shot보다 전반적으로 더 높은 성�
 
 ## 프로젝트 아키텍처 🏛
 
-![LLM 학습 파이프라인](https://github.com/your-repo/path-to-architecture-diagram.png)
+![LLM 학습 파이프라인][(https://github.com/your-repo/path-to-architecture-diagram.png](https://github.com/user-attachments/assets/87c332fb-4f99-4bee-b0ab-b7179be2cae6))
 
 ## 주요 성능 평가 결과 📊
 
