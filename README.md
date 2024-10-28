@@ -63,6 +63,6 @@ Few-shot 프롬프트 방식이 Zero-shot보다 전반적으로 더 높은 성�
 | 박정현        | 팀원               | 프론트엔드, 백엔드 | anna010828@chungbuk.ac.kr   |
 | 김산이        | 팀원               | 프론트엔드, 백엔드 | sanikani@chungbuk.ac.kr     |
 | 유승미        | 팀원               | AI         | ysm0909@chungbuk.ac.kr      |
-| 이수빈        | 팀원               | AI         | aksgdsmsehdan@o.cnu.ac.kr   |
+| 이수빈        | 팀원               | AI         | aksgdmsehdan@o.cnu.ac.kr   |
 | 박정규        | 멘토               | 프로젝트 총괄 | junggpark@lgcns.com         |
 
