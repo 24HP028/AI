@@ -1,5 +1,5 @@
 <p align="middle">
-  <img width="200px;" src="[https://github.com/your-repo/logo.png" alt="Project Logo](https://github.com/user-attachments/assets/19e53102-7ed4-4d30-af19-4c8e59f964d0)"/>
+  <img width="200px;" src="https://github.com/user-attachments/assets/19e53102-7ed4-4d30-af19-4c8e59f964d0" alt="Project Logo]"/>
 </p>
 
 <h1 align="middle">Port MIS 민원 상담 AI 챗봇</h1>
@@ -41,7 +41,7 @@ Few-shot 프롬프트 방식이 Zero-shot보다 전반적으로 더 높은 성�
 
 ## 프로젝트 아키텍처 🏛
 
-![LLM 학습 파이프라인][(https://github.com/your-repo/path-to-architecture-diagram.png](https://github.com/user-attachments/assets/87c332fb-4f99-4bee-b0ab-b7179be2cae6))
+![LLM 학습 파이프라인][(https://github.com/user-attachments/assets/87c332fb-4f99-4bee-b0ab-b7179be2cae6)])
 
 ## 주요 성능 평가 결과 📊
 
